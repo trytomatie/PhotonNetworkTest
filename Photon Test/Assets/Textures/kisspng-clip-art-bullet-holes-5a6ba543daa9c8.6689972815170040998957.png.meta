@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 719632bfb2cde6b4bb24243ef3377ca2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1061
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2831c176d4b142bf9d40ca0ffc3b7
+      internalID: -1002269664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1053
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af136bb08e1ed4883b7e9c8169396a
+      internalID: 2039849369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 962
+        width: 215
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4e29edb9c88d4bbed9a47227db64b
+      internalID: 11870278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1020
+        width: 128
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee31255ae25f94b8cbe2b71f6b18db
+      internalID: -1843490026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 947
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e5bac342b2224189289009c3604da
+      internalID: -1771140433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd6b9c27f99bba4e964c45b3ebaef80
+      internalID: -1293325971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b90095ebf07634abf93611babef202
+      internalID: -114467335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1102
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9ff88c2ab15f4c849043cf655fb8a
+      internalID: 2027260431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_8
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 952
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f491b471bbfb428d6f9544e123990
+      internalID: 1126814873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_9
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1095
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc1d1b156ad7540aeb1ec50393ab3c
+      internalID: -1829010000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1060
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0abeaf2b36ac479d9f9f9ee340cba
+      internalID: 2095267244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_11
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1062
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04328798b43b70489a7957cabe374d6
+      internalID: 540280763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1055
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1c1ed1188dd84c9e091acc58499a1
+      internalID: -594710326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1049
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd344091cc508c4e8a40b9efa3c3c8a
+      internalID: 1782079478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1046
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172aee8cb70b7e408105959f848fd7e
+      internalID: 2045762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1020
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c45e04c82127184593ee8bef0d1a664
+      internalID: 745637619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1020
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddad3945237cd44be33f0cf209da49
+      internalID: 1891905671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 818
+        width: 119
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45004323e1ae1d545a12ac2672d0f438
+      internalID: 2082509420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 857
+        width: 151
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2caea883754c024eaf71d6469540ded
+      internalID: 1831568752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 921
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101f8a787cd16746aec5d39c15223af
+      internalID: -1004664066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 775
+        width: 110
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f08db1a86b3e45b67a92f73ffb18a
+      internalID: 1753742470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 850
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3054414892954da4d984f2c4b5165464
+      internalID: -275601292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_22
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 606
+        width: 312
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a18ae14fdd464e976f75c3c9c8775
+      internalID: 1545548019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 874
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c3c6e0efaaa94ebc94b39a5d9706c
+      internalID: -418899543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 659
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e0feabf4642245b8d4f0dd35a0fb9
+      internalID: 777256905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 634
+        width: 180
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ece85abc983b2d45a38c7086c667eb7
+      internalID: -330343936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 782
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adfa25e3f0034b4081c4433e7896d98
+      internalID: 2098532266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_27
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 795
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ac9263704b3614788b1a92d89eac66
+      internalID: 632580031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 676
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917d3beca80badc4aaaf4e91cfd276d4
+      internalID: -942779031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 618
+        width: 175
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca940bf4e7aa84a80fecd7e072820b
+      internalID: -531405215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_30
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 741
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae032b998f9b24ab518feb3760510f
+      internalID: -1603125514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_31
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 743
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980f68dd7fbea84ebaf2e766432fca8
+      internalID: 1962172579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_32
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 739
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f139d915459714489441140b1d3354
+      internalID: -1249199827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_33
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 730
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224b1a8f9abe8149b81956cee051c4c
+      internalID: -1023303914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 722
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2d0588ac5c2d4f9c4ed82eb3899d5
+      internalID: -1968989618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 711
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edde067e63a95348bf2758418074e2c
+      internalID: 1776762650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 660
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bef3e3e80986f40ac69e79e8cfe2a0
+      internalID: 375194649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 692
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859a5c28be414048965d2bfcb203845
+      internalID: 1063777118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_38
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 698
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e54eee055504640a2d3c1a68c307b6
+      internalID: 449289634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_39
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 666
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960aa45312c21e443a7698b219435075
+      internalID: -256046326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 412
+        width: 384
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc3010c7b5f73c4b9dbf36299084af5
+      internalID: 1040265103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 639
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9796e5664495648b59621dae6dd34b
+      internalID: 1835482274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 491
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cee93ba5be704e88c1775ddc3f28a
+      internalID: 1562080496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_43
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 432
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202845d9de5fa947a67f4018ccd3142
+      internalID: -43402188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_44
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 382
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8a7c7449e3644d975a5ffab4e49ed
+      internalID: 1005144956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_45
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f58d3ec1aa10345bd0bfb1db58742e
+      internalID: 1004863930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_46
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 266
+        width: 136
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9969772bd47a5a4e8263edfa596b450
+      internalID: 1904499173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_47
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 468
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954661636e4b5404f86b1cce2a455015
+      internalID: -1051647414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_48
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 465
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe72e2d7e174a45858802bf2c18336
+      internalID: 894470856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_49
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759025e6ee1c5cd42acad6bf70991da1
+      internalID: -929074304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 368
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcd3046e7ad6da46a0dd3fdcaa03bbc
+      internalID: 896322671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 280
+        width: 170
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5600947f3cd24eba65f66a66d5b1c
+      internalID: -602095331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 135
+        width: 273
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62034e66788d2a4b9c9afd2592b0d51
+      internalID: 604112554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_53
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 380
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9bb641d7b39740889b1ab462ded6f
+      internalID: 604374765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_54
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 276
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6a155e76d7214e958632f47bc420b
+      internalID: -807804230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 133
+        width: 328
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92216577d4ced40a3b37a898a6bb9e
+      internalID: 299037661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_56
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 334
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff915ff3e34eb4384caa4bc94a5961
+      internalID: 1679354814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49601946a31de74ba7aa5590b557f52
+      internalID: 954682936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 239
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ba90bad752fd4e90a00787679044a
+      internalID: 1168825622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_59
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 206
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2546ed59baf0c44ad031f4d9066690
+      internalID: 916076958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7b458ab707f74497e4e4dc1e7d017
+      internalID: -219142149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_61
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 30
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e8a38376640494db5e12c7608ba29c
+      internalID: 721401756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_37: 1063777118
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_5: -1293325971
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_56: 1679354814
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_47: -1051647414
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_60: -219142149
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_57: 954682936
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_32: -1249199827
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_1: 2039849369
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_24: 777256905
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_30: -1603125514
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_52: 604112554
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_34: -1968989618
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_41: 1835482274
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_61: 721401756
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_48: 894470856
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_53: 604374765
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_0: -1002269664
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_21: -275601292
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_29: -531405215
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_12: -594710326
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_13: 1782079478
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_58: 1168825622
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_9: -1829010000
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_15: 745637619
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_4: -1771140433
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_3: -1843490026
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_54: -807804230
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_55: 299037661
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_43: -43402188
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_18: 1831568752
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_39: -256046326
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_14: 2045762091
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_20: 1753742470
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_36: 375194649
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_40: 1040265103
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_2: 11870278
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_59: 916076958
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_22: 1545548019
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_17: 2082509420
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_11: 540280763
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_50: 896322671
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_10: 2095267244
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_7: 2027260431
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_26: 2098532266
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_27: 632580031
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_25: -330343936
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_28: -942779031
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_42: 1562080496
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_38: 449289634
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_44: 1005144956
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_46: 1904499173
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_45: 1004863930
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_51: -602095331
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_23: -418899543
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_49: -929074304
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_31: 1962172579
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_6: -114467335
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_8: 1126814873
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_19: -1004664066
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_16: 1891905671
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_33: -1023303914
+      kisspng-clip-art-bullet-holes-5a6ba543daa9c8.6689972815170040998957_35: 1776762650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
